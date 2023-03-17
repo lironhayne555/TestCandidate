@@ -1,0 +1,13 @@
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\obj\Debug\TestCandidate.BL.Logic.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.BL.Logic.dll
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.BL.Logic.pdb
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\obj\Debug\TestCandidate.BL.Logic.dll
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.BL\TestCandidate.BL.Logic\obj\Debug\TestCandidate.BL.Logic.pdb
+C:\Guy\CodeSamples\TestCandidate\2. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.BL.Logic.dll
+C:\Guy\CodeSamples\TestCandidate\2. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.BL.Logic.pdb
+C:\Guy\CodeSamples\TestCandidate\2. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\2. TestCandidate.BL\TestCandidate.BL.Logic\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\2. TestCandidate.BL\TestCandidate.BL.Logic\obj\Debug\TestCandidate.BL.Logic.dll
+C:\Guy\CodeSamples\TestCandidate\2. TestCandidate.BL\TestCandidate.BL.Logic\obj\Debug\TestCandidate.BL.Logic.pdb

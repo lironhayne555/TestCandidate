@@ -1,0 +1,10 @@
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.pdb
